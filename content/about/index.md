@@ -18,4 +18,6 @@ In 2023 I began this site as a way to document my eurorack build, as I committed
 
 Be kind, make music.
 
+[Follow me on mastodon](https://universeodon.com/@yougenius)
+
 *More to come…*
