@@ -1,7 +1,7 @@
 +++
 title = "And Just Like That"
 date = "2023-02-05T21:50:41-05:00"
-author = ""
+author = "Eugene Huo"
 authorTwitter = "" #do not include @
 cover = ""
 tags = ["eurorack", "synthesizers"]
