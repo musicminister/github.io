@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>synthDIY.space</title>
+    <link>https://musicminister.github.io/</link>
+    <description>Recent content on synthDIY.space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2023 Eugene Huo | Powered by Hugo</copyright>
+    <lastBuildDate>Sun, 05 Feb 2023 21:50:41 -0500</lastBuildDate><atom:link href="https://musicminister.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://musicminister.github.io/about/</link>
+      <pubDate>Sun, 05 Feb 2023 21:50:41 -0500</pubDate>
+      
+      <guid>https://musicminister.github.io/about/</guid>
+      <description>Hi, my name is Eugene, I’m a recording engineer and music producer based in Toronto, Ontario. I’ve been in the industry since the mid 90s. Music is my passion.
+In 2023 I began this site as a way to document my eurorack build, as I committed to doing as much of it via DIY as possible. I hope to learn and to share what I’ve learned, and to chart my progress along the way.</description>
+      <content>&lt;p&gt;Hi, my name is Eugene, I’m a recording engineer and music producer based in Toronto, Ontario. I’ve been in the industry since the mid 90s. Music is my passion.&lt;/p&gt;
+&lt;p&gt;In 2023 I began this site as a way to document my eurorack build, as I committed to doing as much of it via DIY as possible. I hope to learn and to share what I’ve learned, and to chart my progress along the way.&lt;/p&gt;
+&lt;p&gt;Be kind, make music.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;More to come…&lt;/em&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>And Just Like That</title>
+      <link>https://musicminister.github.io/posts/and-just-like-that/</link>
+      <pubDate>Sun, 05 Feb 2023 21:50:41 -0500</pubDate>
+      
+      <guid>https://musicminister.github.io/posts/and-just-like-that/</guid>
+      <description>Ideas become reality.
+I think I know exactly at what moment I decided to get into eurorack. For the uninitiated, the eurorack system of synthesizer modules has grown steadily since inception in 1995. When Dieter Doepfer shared a standard specification for his modules did he realize he would be starting a movement and a whole new interest in analog synthesizers, an antidote to the rise of the all digital instruments of the 80s?</description>
+      <content>&lt;p&gt;Ideas become reality.&lt;/p&gt;
+&lt;p&gt;I think I know exactly at what moment I decided to get into eurorack. For the uninitiated, the eurorack system of synthesizer modules has grown steadily since inception in 1995. When Dieter Doepfer shared a standard specification for his modules did he realize he would be starting a movement and a whole new interest in analog synthesizers, an antidote to the rise of the all digital instruments of the 80s?&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://techcrunch.com/2019/09/28/meet-the-makers-of-modular/&#34;&gt;&lt;em&gt;Meet the makers of Modular&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;As a teenager the Yamaha DX7 was a favourite synth of many. My girlfriend had one. It was cool, but I don’t think we ever programmed any sounds on it. We were basic preset players. Diving into the menus was inscrutable. We just dialed up a cool sound and got to jamming. I was more about the drums anyway.&lt;/p&gt;
+&lt;p&gt;Fast forward to the early 90s and I bought a KORG M1, like a quarter of a million other people. ORGAN 2 and UNIVERSE were the cool sounds, and the joystick was a like a middle finger to the separate Pitch Wheel and Mod Wheel of other synths. Ha, I can do pitch and modulation AT THE SAME TIME take that, other synths! I imagine that’s what my M1 would say. Based on built in sample playback, the Korg, like many other synths of the time, promised realistic sounds: pianos, flutes, guitars, drums, all from your keyboard!&lt;/p&gt;
+&lt;p&gt;In the intervening years between then and now, I picked up a Yamaha EX5 rack, an 88-note weighted MIDI controller, and an AKAI MPD24 drum pad controller. Mostly with the idea of making music inside the box, using the DAW and virtual instrument plugins, I could pretty much have every sound I could want at my disposal. Or so I thought.&lt;/p&gt;
+&lt;p&gt;Like many (or perhaps all) of us, the pandemic spurred new depths of soul searching and reflection. What do I really want out of life, as precious as it is? A life with creative endeavours isn’t going to cut it for me, and music is my greatest passion. Whatever form it takes, I want to get back into it.&lt;/p&gt;
+&lt;p&gt;A timeline:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;2022-Apr-29&lt;/em&gt; I’m exchanging messages with a friend, a very talented musician and music producer. I see some of his for sale postings on Facebook. It’s some pretty neat synth gear.&lt;/p&gt;
+&lt;p&gt;I’m thinking of getting back into music and synthesis/ambient stuff, I say. I’m at the point where I’m looking at the best “first synthesizer” to buy, one where you can actually dig into everything and shape the sounds.&lt;/p&gt;
+&lt;p&gt;I’ve been considering:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Make Noise 0-Coast and the Arturia Microfreak&lt;/li&gt;
+&lt;li&gt;the Elektron Digitone&lt;/li&gt;
+&lt;li&gt;the Hydrasynth&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;He suggests the Sequential Take 5, which gets added to the list.&lt;/p&gt;
+&lt;p&gt;Then I say, I just discovered West Coast and Buchla. I’ve been listening to Suzanne Ciani on repeat. So &lt;strong&gt;modular is not off the table&lt;/strong&gt;, I guess.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;2022-May-1&lt;/em&gt; Finishing my tax return and I have some money coming back to me. I decide to start small and get the Arturia Microfreak.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;2022-May-11&lt;/em&gt; Cre8audio in partnership with Pittsburgh Modular announce the East Beast, a semi modular desktop unit. I get caught up in the hype and pre-order one.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;2022-May-13&lt;/em&gt; Superbooth happens in Germany. dreadbox releases their new DYSMETRIA groovebox as a DIY kit. I can solder things, I think to myself. In recording school in our electronics course our project was to make a DI (direct injection) box from parts and a perf board. It was all point to point soldering, and we had to come up with our own cases. I think mine was one of a handful of student’s projects that actually functioned. Dreadbox says that the kit is “ideal for inexperienced DIY’ers”.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;2022-May-23&lt;/em&gt; I order a DYSMETRIA kit, along with the Patch and Tweak book, and a KOMOREBI Chorus pedal. I like how it’s semi-modular and works as a standalone box, but can be mounted into a eurorack system, you know, should that happen. At some point.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;2022-June-07&lt;/em&gt; The package is delivered.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;2022-June-15&lt;/em&gt; I cancel my East Beast pre-order.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;2022-June-17&lt;/em&gt; I’ve begun building the DYSMETRIA, and now intend to fully commit to DIY my entire eurorack system. I have made purchases of the AI Synthesis VCO kit, a handful of modules from nonlinearcircuits, and a filter from MMI Modular.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;2022-July-7&lt;/em&gt; Build is complete. Yes it took me many weeks. No it was not easy for beginners. I have it fully working though, and I post &lt;a href=&#34;https://youtu.be/uD1Zx0smYyg&#34;&gt;a timelepse video of the build process&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;So here we are. It’s February, and I’ve been with this project for 7 months. This is where I will be posting my thoughts on each build, on which modules and why, on what I’ve learned to do and to not do, and any helpful tips I’ve gained along the way.&lt;/p&gt;
+&lt;p&gt;Welcome to Synth DIY Space.&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
