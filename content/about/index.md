@@ -4,12 +4,12 @@ date = "2023-02-05T21:50:41-05:00"
 author = "Eugene Huo"
 authorTwitter = "" #do not include @
 cover = ""
-tags = ["introduction", "DIY"]
+tags = ["introduction", "blog"]
 keywords = ["", ""]
 description = ""
 showFullContent = false
 readingTime = false
-hideComments = false
+hideComments = true
 color = "" #color from the theme settings
 +++
 Hi, my name is Eugene, I’m a recording engineer and music producer based in Toronto, Ontario. I’ve been in the industry since the mid 90s. Music is my passion.
