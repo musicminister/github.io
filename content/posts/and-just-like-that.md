@@ -55,7 +55,7 @@ Then I say, I just discovered West Coast and Buchla. I’ve been listening to Su
 
 *2022-June-17* I’ve begun building the DYSMETRIA, and now intend to fully commit to DIY my entire eurorack system. I have made purchases of the AI Synthesis VCO kit, a handful of modules from nonlinearcircuits, and a filter from MMI Modular.
 
-*2022-July-7* Build is complete. Yes it took me many weeks. No it was not easy for beginners. I have it fully working though, and I post [a timelepse video of the build process](https://youtu.be/uD1Zx0smYyg).
+*2022-July-7* Build is complete. Yes it took me many weeks. No it was not easy for beginners. I have it fully working though, and I post [a timelapse video of the build process](https://youtu.be/uD1Zx0smYyg).
 
 So here we are. It’s February, and I’ve been with this project for 7 months. This is where I will be posting my thoughts on each build, on which modules and why, on what I’ve learned to do and to not do, and any helpful tips I’ve gained along the way.
 
