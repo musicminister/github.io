@@ -82,7 +82,7 @@ paginate = 5
 
     [languages.en.params.logo]
       logoText = "Ground"
-      logoHomeLink = "/"
+      logoHomeLink = "https://musicminister.github.io/github.io/"
 
     [languages.en.menu]
       [[languages.en.menu.main]]
