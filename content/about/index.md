@@ -20,6 +20,9 @@ Be kind, make music.
 
 [Follow me on mastodon](https://universeodon.com/@yougenius)
 
+Please read our [Comment Policy and Community Guidlines](/github.io/comment-policy)
+
+
 *More to come…*
 
 
