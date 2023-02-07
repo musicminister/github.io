@@ -1,0 +1,14 @@
++++
+title = "Accumulated Vactrol Knowledge"
+date = "2023-02-07T07:59:49-05:00"
+author = ""
+authorTwitter = "" #do not include @
+cover = ""
+tags = ["", ""]
+keywords = ["", ""]
+description = ""
+showFullContent = false
+readingTime = false
+hideComments = false
+color = "" #color from the theme settings
++++

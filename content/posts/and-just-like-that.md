@@ -60,11 +60,4 @@ Then I say, I just discovered West Coast and Buchla. I’ve been listening to Su
 
 So here we are. It’s February, and I’ve been with this project for 7 months. This is where I will be posting my thoughts on each build, on which modules and why, on what I’ve learned to do and to not do, and any helpful tips I’ve gained along the way.
 
-And you, dear reader, I want to learn from you as well. Please comment, ask questions, and share your experience/joys/frustrations with me. This is a space for all of that.
-
-Welcome to synthDIY.space.
-
-==> be kind make music <==
-
----
-
+Welcome to Synth DIY Space.
