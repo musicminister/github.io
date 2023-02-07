@@ -9,7 +9,7 @@ keywords = ["", ""]
 description = ""
 showFullContent = false
 readingTime = false
-hideComments = false
+hideComments = true
 color = "" #color from the theme settings
 +++
 

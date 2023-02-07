@@ -9,7 +9,7 @@ keywords = ["", ""]
 description = ""
 showFullContent = false
 readingTime = false
-hideComments = false
+hideComments = true
 color = "" #color from the theme settings
 +++
 Hi, my name is Eugene, I’m a recording engineer and music producer based in Toronto, Ontario. I’ve been in the industry since the mid 90s. Music is my passion.
