@@ -6,7 +6,7 @@ authorTwitter = "" #do not include @
 cover = ""
 tags = ["eurorack", "synthesizers"]
 keywords = ["", ""]
-description = ""
+description = "Ideas become reality. ~~I think~~ I know exactly at what moment I decided to get into eurorack."
 showFullContent = false
 readingTime = true
 hideComments = false
@@ -14,7 +14,7 @@ color = "" #color from the theme settings
 +++
 Ideas become reality.
 
-I think I know exactly at what moment I decided to get into eurorack. For the uninitiated, the eurorack system of synthesizer modules has grown steadily since inception in 1995. When Dieter Doepfer shared a standard specification for his modules did he realize he would be starting a movement and a whole new interest in analog synthesizers, an antidote to the rise of the all digital instruments of the 80s?
+~~I think~~ I know exactly at what moment I decided to get into eurorack. For the uninitiated, the eurorack system of synthesizer modules has grown steadily since inception in 1995. When Dieter Doepfer shared a standard specification for his modules did he realize he would be starting a movement and a whole new interest in analog synthesizers, an antidote to the rise of the all digital instruments of the 80s?
 
 [*Meet the makers of Modular*](https://techcrunch.com/2019/09/28/meet-the-makers-of-modular/)
 
