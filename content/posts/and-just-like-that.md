@@ -9,7 +9,7 @@ keywords = ["", ""]
 description = "Ideas become reality. ~~I think~~ I know exactly at what moment I decided to get into eurorack."
 showFullContent = false
 readingTime = true
-hideComments = true
+hideComments = false
 color = "" #color from the theme settings
 +++
 Ideas become reality.
@@ -60,3 +60,4 @@ Then I say, I just discovered West Coast and Buchla. I’ve been listening to Su
 So here we are. It’s February, and I’ve been with this project for 7 months. This is where I will be posting my thoughts on each build, on which modules and why, on what I’ve learned to do and to not do, and any helpful tips I’ve gained along the way.
 
 Welcome to Synth DIY Space.
+{{ template "_internal/disqus.html" . }}
