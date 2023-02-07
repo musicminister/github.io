@@ -9,7 +9,7 @@ keywords = ["", ""]
 description = "Ideas become reality. ~~I think~~ I know exactly at what moment I decided to get into eurorack."
 showFullContent = false
 readingTime = true
-hideComments = false
+hideComments = true
 color = "" #color from the theme settings
 +++
 Ideas become reality.
