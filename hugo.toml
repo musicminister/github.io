@@ -15,7 +15,7 @@ disqusShortname = 'https-musicminister-github-io-github-io'
   themeColor = "pink"
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 3
+  showMenuItems = 6
 
   # show selector to switch language
   showLanguageSelector = false
