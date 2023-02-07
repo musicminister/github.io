@@ -90,9 +90,25 @@ paginate = 5
         name = "About"
         url = "/about"
       [[languages.en.menu.main]]
-        identifier = "links"
-        name = "Links"
-        url = "https://linktr.ee/music.minister"
+        identifier = "youtube"
+        name = "YouTube"
+        url = "https://www.youtube.com/@music.minister"
+      [[languages.en.menu.main]]
+        identifier = "bandcamp"
+        name = "bandcamp"
+        url = "https://musicminister.bandcamp.com/"
+      [[languages.en.menu.main]]
+        identifier = "instagram"
+        name = "Instagram"
+        url = "https://www.instagram.com/the.musicminister/"
+      [[languages.en.menu.main]]
+        identifier = "mastodon"
+        name = "mastodon"
+        url = "https://universeodon.com/@yougenius"
+      [[languages.en.menu.main]]
+        identifier = "github"
+        name = "GitHub"
+        url = "https://github.com/musicminister"
 
 [module]
   # In case you would like to make changes to the theme and keep it locally in you repository,
