@@ -63,3 +63,5 @@ So here we are. It’s February, and I’ve been with this project for 7 months.
 And you, dear reader, I want to learn from you as well. Please comment, ask questions, and share your experience/joys/frustrations with me. This is a space for all of that.
 
 Welcome to synthDIY.space.
+
+## be kind make music ##
