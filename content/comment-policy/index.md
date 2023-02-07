@@ -13,11 +13,11 @@ hideComments = true
 color = "" #color from the theme settings
 +++
 
-#Community Guidelines#
+# Community Guidelines
 
-##synthDIY.space community standards, participations guidelines, and moderation goals##
+## synthDIY.space community standards, participations guidelines, and moderation goals
 
-###Commenter community guidelines###
+### Commenter community guidelines
 
 synthDIY.space welcomes diverse opinions and discussion, but most importantly we value constructive comments and interactions that are relevant to the discussion, and respectful to our fellow readers and writers.
 
@@ -27,13 +27,13 @@ Commenters can flag potentially inappropriate comments for review, out of concer
 
 You can flag concerns via the menu next to a potentially offensive comment, or email us via our contact page.
 
-###How to comment###
+### How to comment
 
 Our comments run on the third-party disqus platform, which requires you to set up an account. You can register a Disqus profile either directly with Disqus, or with your Facebook, Twitter or Google accounts.
 
 Disqus does not require you use your real name, however, we prefer commenters use their real name as it increases the likelihood of mature and accountable behaviour. Importantly, using your real name is not a requirement and we recognize there are valid reasons for using a pseudonym.
 
-###Keeping it friendly###
+### Keeping it friendly
 
 Hopefully our comment forums help us and others broaden our knowledge, understanding, and passion for synthesizers, electronics and DIY.
 
@@ -43,7 +43,7 @@ While appreciating there will be, at times, different points of view, we reserve
 
 In addition, we will not tolerate racism, sexism, homophobia or other forms of hate-speech, or contributions that could be interpreted as such.
 
-###Clarity and intent###
+### Clarity and intent
 
 The tone of the written word is not always obvious, so stop and think twice before publishing your comment.
 
@@ -51,25 +51,25 @@ The tone of the written word is not always obvious, so stop and think twice befo
 
 Use of these and similar techniques could lead to the comment being deleted, edited, or modified at the discretion of our moderation team. Repeat offenders may face have face suspension or a permanent ban.
 
-###User images (avatars)###
+### User images (avatars)
 
 Distasteful imagery in Disqus user photo/picture profiles (also known as an avatar) is banned on synthDIY.space.
 
 Examples of banned content include sexually explicit, suggestive or revealing imagery; depictions of violence or gore; crude imagery; the celebration or depiction of criminals or criminal activity; propaganda.
 
-###Back-up profiles###
+### Back-up profiles
 
 Commenters are asked to maintain one profile only, and our moderators flag the IP addresses of repeat offenders.
 
 Repeat offenders with multiple accounts will be banned from our comments section.
 
-###Links###
+### Links
 
 Posting links in comments is allowed to refer to other articles or other pertinent and relevant data.
 
 Comments that include links will be reviewed and potentially withheld pending review.
 
-###Who moderates synthDIY.space?###
+### Who moderates synthDIY.space?
 
 The monitoring and moderation of discussion in the comments section of synthDIY.space are done by the team.
 
