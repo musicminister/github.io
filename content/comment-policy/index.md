@@ -15,7 +15,7 @@ color = "" #color from the theme settings
 
 # Community Guidelines
 
-## synthDIY.space community standards, participations guidelines, and moderation goals
+## synthDIY.space community standards, participation guidelines, and moderation goals
 
 ### Commenter community guidelines
 
