@@ -40,7 +40,7 @@ I’ve been considering:
 
 He suggests the Sequential Take 5, which gets added to the list.
 
-Then I say, I just discovered West Coast and Buchla. I’ve been listening to Suzanne Ciani on repeat. So **modular is not off the table**, I guess.
+Then I say, I just discovered West Coast and Buchla. I’ve been listening to Suzanne Ciani on repeat. So **_modular is not off the table_**, I guess.
 
 *2022-May-1* Finishing my tax return and I have some money coming back to me. I decide to start small and get the Arturia Microfreak.
 
