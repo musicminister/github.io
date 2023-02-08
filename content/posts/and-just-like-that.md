@@ -25,7 +25,7 @@ Fast forward to the early 90s and I bought a KORG M1, like a quarter of a millio
 
 In the intervening years between then and now, I picked up a Yamaha EX5 rack, an 88-note weighted MIDI controller, and an AKAI MPD24 drum pad controller. Mostly with the idea of making music inside the box, using the DAW and virtual instrument plugins, I could pretty much have every sound I could want at my disposal. Or so I thought.
 
-Like many (or perhaps all) of us, the pandemic spurred new depths of soul searching and reflection. What do I really want out of life, as precious as it is? A life with creative endeavours isn’t going to cut it for me, and music is my greatest passion. Whatever form it takes, I want to get back into it.
+Like many (or perhaps all) of us, the pandemic spurred new depths of soul searching and reflection. What do I really want out of life, as precious as it is? A life without creative endeavours isn’t going to cut it for me, and music is my greatest passion. Whatever form it takes, I want to get back into it.
 
 A timeline:
 
