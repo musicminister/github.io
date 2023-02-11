@@ -1,6 +1,6 @@
 +++
-title = "Build Notes Amazingsynth Noodle Toaster"
-date = "2023-02-07T00:03:09-05:00"
+title = "Build Notes Amazing Synth Noodle Toaster"
+date = "2023-02-08T15:03:09-05:00"
 author = "Eugene Huo"
 authorTwitter = "" #do not include @
 cover = ""
