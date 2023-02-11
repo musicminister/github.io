@@ -100,7 +100,7 @@ You should be soldering with the window cracked open at the very least, so that 
 
 **Module Tester**
 
-I stumbled across the [Mutable Instruments Module Tester PCB](https://pichenettes.github.io/mutable-instruments-diy-archive/module_tester/) thru a recommendation on mastodon, and if you plan on making a lot of modules or building for others, this tool is invaluable, letting you easily test the functions of most any modules. MI no longer makes these but the board schematics are freely available. I bought my PCB along with a case from amazing synth in the UK. 
+I stumbled across the [Mutable Instruments Module Tester PCB](https://pichenettes.github.io/mutable-instruments-diy-archive/module_tester/) thru a recommendation on mastodon, and if you plan on making a lot of modules or building for others, this tool is invaluable, letting you easily test the functions of most any modules. MI no longer makes these but the board schematics are freely available. I bought my PCB along with a case from amazing synth in the UK. You can read my [Build Notes here.](https://musicminister.github.io/github.io/posts/build-notes-amazingsynth-noodle-toaster/)
 
 **Oscilloscope**
 
