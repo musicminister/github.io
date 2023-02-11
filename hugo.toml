@@ -82,7 +82,7 @@ disqusShortname = 'https-musicminister-github-io-github-io'
     words = "words"
 
     [languages.en.params.logo]
-      logoText = "synthDIY.space"
+      logoText = "earth - ground - synthDIY.space"
       logoHomeLink = "https://musicminister.github.io/github.io/"
 
     [languages.en.menu]
