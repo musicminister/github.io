@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>notes on synthDIY.space</title><link>https://musicminister.github.io/github.io/tags/notes/</link><description>Recent content in notes on synthDIY.space</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>© 2023 Eugene Huo | Powered by Hugo</copyright><lastBuildDate>Tue, 07 Feb 2023 00:03:09 -0500</lastBuildDate><atom:link href="https://musicminister.github.io/github.io/tags/notes/index.xml" rel="self" type="application/rss+xml"/><item><title>Build Notes Amazingsynth Noodle Toaster</title><link>https://musicminister.github.io/github.io/posts/build-notes-amazingsynth-noodle-toaster/</link><pubDate>Tue, 07 Feb 2023 00:03:09 -0500</pubDate><guid>https://musicminister.github.io/github.io/posts/build-notes-amazingsynth-noodle-toaster/</guid><description>The Amazing Synth Noodle Toaster is an iteration on the Mutable Instruments Module Tester designed by Émilie Gillet.
+Several problems were faced during the development of our Eurorack modules:
+How to power and test a module during development? Bench-top power supplies are cumbersome (especially for projects requiring 3 supply rails) and standard test equipment is sometimes useless or frustrating for quantities like musical notes or V/Oct scales. On the other extreme of the scale, who would run the risk of putting a half-built prototype in a rack loaded with thousands of euros worth of modules?</description><content>&lt;p>The Amazing Synth Noodle Toaster is an iteration on the &lt;a href="https://pichenettes.github.io/mutable-instruments-diy-archive/module_tester/">Mutable Instruments Module Tester&lt;/a> designed by Émilie Gillet.&lt;/p>
+&lt;blockquote>
+&lt;p>Several problems were faced during the development of our Eurorack modules:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>How to power and test a module during development? Bench-top power supplies are cumbersome (especially for projects requiring 3 supply rails) and standard test equipment is sometimes useless or frustrating for quantities like musical notes or V/Oct scales. On the other extreme of the scale, who would run the risk of putting a half-built prototype in a rack loaded with thousands of euros worth of modules?&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>What kind of setup to use for factory testing?&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>How to take a project away from the lab without carrying heaps of &amp;ldquo;dependencies&amp;rdquo;?&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>We solved this the Mutable Instruments way, rolling up our sleeves and designing a simple box able to provide power and all kinds of test signals (clocks, gates, CVs, audio tones) to a module. This tool is made available under cc-by-sa (hardware) and GPL (firmware) licenses.&lt;/p>
+&lt;/blockquote>
+&lt;p>Amazing Synth in the UK have taken this design and produced a nice clone of the PCB, as well as a custom fitted case made from cut acrylic, in various colours.&lt;/p>
+&lt;p>I spent a very enjoyable day putting this together. I have since used it to test a VCA module that I put together, and it would make light work of VCO calibration, for example.&lt;/p>
+&lt;p>Build Notes:&lt;/p>
+&lt;p>- I chose the wrong kind of pin header to attach the LCD screen, so mine is sitting up off the PCB supported only by the pins. Probably not a problem as long as I don&amp;rsquo;t push hard on the screen. It&amp;rsquo;s supposed to sit on the PCB, but I like it slightly raised as it&amp;rsquo;s more visible through the opening in the case&lt;/p>
+&lt;p>- The bourns trimmers on the upper right are quite tall and prevent the case from sitting down flat, it would be nice to maybe either have an opening for them so the case can screw down on the standoffs without pushing on the trimmer tops&lt;/p>
+&lt;p>- the acrylic case has indented print labelling (a la D&amp;amp;D dice) so I filled them in with a white crayon, I think it looks nice, it pops against the blue colour&lt;/p>
+&lt;p>- I made a mistake in putting it together, in that I did not fully fill with solder the joints for the power connector. I don&amp;rsquo;t know why, I thought I could just partially solder them but the unit wouldn&amp;rsquo;t power on when I tried it the first time. After fully filling the joints it powered on successfully&lt;/p></content></item></channel></rss>
