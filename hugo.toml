@@ -1,4 +1,4 @@
-baseurl = "https://musicminister.github.io/github.io"
+baseurl = "http://synthdiy.space"
 languageCode = "en-us"
 # Add it only if you keep the theme in the `themes` directory.
 # Remove it if you use the theme as a remote Hugo Module.
@@ -83,7 +83,7 @@ disqusShortname = 'https-musicminister-github-io-github-io'
 
     [languages.en.params.logo]
       logoText = "earth - ground - synthDIY.space"
-      logoHomeLink = "https://musicminister.github.io/github.io/"
+      logoHomeLink = "http://synthdiy.space"
 
     [languages.en.menu]
       [[languages.en.menu.main]]
