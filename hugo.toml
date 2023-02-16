@@ -88,11 +88,11 @@ disqusShortname = 'https-musicminister-github-io-github-io'
     [languages.en.menu]
       [[languages.en.menu.main]]
         identifier = "about"
-        name = "xAbout"
+        name = "zAbout"
         url = "/about"
       [[languages.en.menu.main]]
         identifier = "contact"
-        name = "yContact"
+        name = "zContact"
         url = "/contact"
       [[languages.en.menu.main]]
         identifier = "youtube"
