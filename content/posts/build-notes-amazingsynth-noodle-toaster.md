@@ -26,7 +26,7 @@ The Amazing Synth Noodle Toaster is an iteration on the [Mutable Instruments Mod
 >
 > We solved this the Mutable Instruments way, rolling up our sleeves and designing a simple box able to provide power and all kinds of test signals (clocks, gates, CVs, audio tones) to a module. This tool is made available under cc-by-sa (hardware) and GPL (firmware) licenses.
 
-Amazing Synth in the UK have taken this design and produced a nice clone of the PCB, as well as a custom fitted case made from cut acrylic, in various colours.
+Amazing Synth in the UK have taken this design and produced [a nice clone of the PCB](https://www.amazingsynth.com/module-tester-pcb/), as well as a custom fitted case made from cut acrylic, in various colours.
 
 I spent a very enjoyable day putting this together. I have since used it to test a VCA module that I put together, and it would make light work of VCO calibration, for example.
 
