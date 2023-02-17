@@ -12,7 +12,7 @@ readingTime = true
 hideComments = false
 color = "" #color from the theme settings
 +++
-This is a pretty unique and simple module consisting of two light sensitive photodiodes producing CV outputs depending on how much light they receive. The gain can be increased by increasing the value of the gain resistor.
+The [LUX module by nonlinearcircuits](https://www.nonlinearcircuits.com/modules/p/lux?rq=lux) is a pretty unique and simple module consisting of two light sensitive photodiodes producing CV outputs depending on how much light they receive. The gain can be increased by increasing the value of the gain resistor.
 
 I made a video using two lux modules to simulate some bird songs, using them like a kind of optical theremin.
 
