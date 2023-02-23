@@ -1,5 +1,5 @@
 +++
-title = "Inventory Management Need It"
+title = "Inventory Management Do I Need It?"
 date = "2023-02-23T14:03:45-05:00"
 author = "Eugene Huo"
 authorTwitter = "" #do not include @
