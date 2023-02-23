@@ -41,3 +41,5 @@ The free tier doesn't support automatic ordering, which sounds really cool. You 
 Even with these limitations, I'm finding the information that partsbox gives me to be invaluable, and it is streamlining my ordering to the correct amount of any given component that I need.
 
 It's amazing that they've kept it free for single user hobbyist types like me, and I hope this mini-review encourages you to give it a try.
+
+Got questions? Leave me a comment and I'll try to answer them!
