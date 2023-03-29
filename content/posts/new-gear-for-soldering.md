@@ -11,6 +11,7 @@ showFullContent = false
 readingTime = true
 hideComments = false
 color = "" #color from the theme settings
+draft = false
 +++
 
 # new gear for soldering #
