@@ -98,15 +98,15 @@ disqusShortname = 'https-musicminister-github-io-github-io'
       [[languages.en.menu.main]]
         identifier = "youtube"
         name = "YouTube"
-        url = "https://www.youtube.com/@music.minister"
+        url = "https://www.youtube.com/@bekindmakemusic"
       [[languages.en.menu.main]]
         identifier = "bandcamp"
         name = "bandcamp"
-        url = "https://musicminister.bandcamp.com/"
+        url = "https://bekindmakemusic.bandcamp.com/"
       [[languages.en.menu.main]]
         identifier = "instagram"
         name = "Instagram"
-        url = "https://www.instagram.com/the.musicminister/"
+        url = "https://www.instagram.com/bekindmakemusic/"
       [[languages.en.menu.main]]
         identifier = "mastodon"
         name = "mastodon"
